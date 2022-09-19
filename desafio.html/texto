@@ -1,0 +1,37 @@
+Primeiras impressoes do html
+
+Qual a funcionalidade?
+Html é uma linguagem de marcação, projetada para formatação de textos, o html é base de TODOS os sites
+da internet, sendo uma das tecnologias mais antigas no mundo web, o programador web utiliza do html como
+esqueleto para os sites .
+
+
+É uma linguagem?
+html nao é uma linguagem como conhecemos por linguagem de máquina, ao contrário ela é a marcação do texto conhecemos
+
+
+principais tags...
+
+as principais tags sao:
+        <html>
+            é o proprio inicio do programa, definindo que abaixo se trata de um arquivo em html
+        <title>
+            Titulo que vai na aba do navegador, nao confundir com o título do texto
+        <body>
+            é o CORPO da página, será onde estará formatado todo o texto e imagens da pagina
+        <p> 
+            define um paragrafo
+        <strong> 
+            deixa o texto em negrito
+        <i> 
+            deixa o texto em itálico
+        <a href=""></a>
+            Ancoragem do texto, será onde inserimos links para navegação em outras paginas do nosso site ou te terceiros
+        <img src="" alt="">
+            inserimos uma imagem, podemos definir altura e largura
+        <ol></ol>
+            listas ordenadas
+        <li></li>
+            ordenação do texto
+        <ul></ul>
+            listas nao ordenadas        
